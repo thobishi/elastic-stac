@@ -5,7 +5,7 @@ Config files I use for Elastic Stack
 
 Initial file config works for logstash-6.2.3 on Red Hat Enterprise Linux Server
 ------------------------------------------------
-Assuming logstash is installed:
+Assuming logstash is installed
 Test Config:
  <logstash_install_directory>bin/logstash -t -f <path_to_config>/db2-mvs-jdbc-logstash.conf
 Run Config:
